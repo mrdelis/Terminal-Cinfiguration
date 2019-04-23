@@ -1,0 +1,18 @@
+Color codes:
+
+--Black 0;30 
+--Dark Gray 1;30 
+--Blue 0;34 
+--Bold Blue 1;34 
+--Green 0;32 
+--Bold Green 1;32 
+--Cyan 0;36 
+--Bold Cyan 1;36 
+--Red 0;31 
+--Bold Red 1;31 
+--Purple 0;35 
+--Bold Purple 1;35 
+--Brown 0;33 
+--Yellow 1;33 
+--Bold Gray 0;37
+--White 1;37
